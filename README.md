@@ -21,3 +21,9 @@ c. Use a pre-trained machine-learning classifier of your choice to recognize the
 d. Report the accuracy of the approach through a confusion matrix
 
 Reference: https://ieeexplore.ieee.org/abstract/document/8543584
+
+### Extra
+
+See [the development container](.devcontainer) tailored to the project requirements, for local execution, as an alternative to the on-line _Google Colab_'s environment.
+
+Note that in the use of the _development container_ all requirements are already satisfied (therefore, there is no need for initial package provisioning, as instead needed in _Google Colab_).
